@@ -1,0 +1,22 @@
+*{
+
+    background-color: #3d0000;
+    font-family: calibri;
+}  
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 55px;
+    color: #fff;
+    margin-top: 40px;
+}
+.story{
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-bottom: 45px;
+    
+}
+.story p{
+    font-size: 20px;
+    color: #fff;
+}
